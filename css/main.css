@@ -1,0 +1,12 @@
+body {
+	/* Include any styles you want to use across your entire site here. */
+	text-align: center;
+	background: url("../img/bg-gray.png");
+	background-position: center;
+	color: pink;
+	font-family: 'Love Ya Like A Sister', cursive;	font-size: 80px;
+}
+
+form {
+	font-size: 15px;
+}
